@@ -259,6 +259,7 @@
 
       @media (width >= calc(600 / 16 * 1rem)) {
         max-width: calc(458 / 16 * 1rem);
+        flex-direction: row-reverse;
         gap: 32px;
       }
 
